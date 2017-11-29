@@ -1,0 +1,29 @@
+{
+  "name": "reactjs-angular-and-vuejs-quickstart-and-comparison-exercises",
+  "version": "0.0.1",
+  "description": "My personal exercises of the \"React JS, Angular & Vue JS - Quickstart & Comparison\" Udemy Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielizalo/ReactJS-Angular-VueJS-Quickstart-Comparison-Exercises.git"
+  },
+  "keywords": [
+    "javascript",
+    "reactjs",
+    "angular",
+    "vuejs",
+    "basics"
+  ],
+  "author": "Gabriel Porras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielizalo/ReactJS-Angular-VueJS-Quickstart-Comparison-Exercises/issues"
+  },
+  "homepage": "https://github.com/gabrielizalo/ReactJS-Angular-VueJS-Quickstart-Comparison-Exercises#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
